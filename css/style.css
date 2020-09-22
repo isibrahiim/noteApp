@@ -1,0 +1,11 @@
+body {
+    background-color: #e2e7ec;
+  }
+  #container {
+    width: 1120px;
+    height: 250px;
+    margin: 90px auto;
+    padding: 10px;
+    background-color: #eee;
+  }
+
